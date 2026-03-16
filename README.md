@@ -1,3 +1,5 @@
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Backend+%26+Frontend+Developer;Software+Requirements+Engineer;Building+AI-Powered+Products;Open+to+Internships+%26+Collaborations)](https://git.io/typing-svg)
 
 
