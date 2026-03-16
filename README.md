@@ -45,7 +45,5 @@ Platform that generates videos using artificial intelligence and publishes them 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio4242)
 
-## GitHub Stats
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 Si también quieres un header que combine con ese footer, puedes poner esto al inicio del
