@@ -40,12 +40,6 @@ Platform that generates videos using artificial intelligence and publishes them 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ingmao021&theme=dracula)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ingmao021&layout=compact&theme=dracula)
-
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio4242)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
 
